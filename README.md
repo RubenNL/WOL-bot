@@ -1,7 +1,7 @@
-#Installatie
+# Installatie
 
     npm install
 
-#Gebruik
+# Gebruik
 
     node bot.js <token> <mac>
